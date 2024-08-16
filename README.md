@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-# Project
-[https://shipmnts-task-orcin.vercel.app/]
+## Project Links
+[https://shipmnts-task-orcin.vercel.app/]\
 [https://main--shipmnts-form.netlify.app/]
 
 ## Available Scripts
