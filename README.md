@@ -4,6 +4,22 @@
 [https://shipmnts-task-orcin.vercel.app/]\
 [https://main--shipmnts-form.netlify.app/]
 
+## Project Screenshot
+Form Page
+![image](https://github.com/user-attachments/assets/357e3682-5448-4237-86d4-289095890183)
+
+Error
+![image](https://github.com/user-attachments/assets/ae1adc63-5e5d-46ca-99d8-cdf7823d3fdf)
+
+Preview Page
+![image](https://github.com/user-attachments/assets/d167d062-c6b8-4c56-89a8-e091fcf47e01)
+
+Submitted Page
+![image](https://github.com/user-attachments/assets/1822679d-506e-4926-8c21-86de559bb7e3)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
